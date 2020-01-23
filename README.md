@@ -1,2 +1,1 @@
-"# rest_glassfish_hello_world" 
-teste
+"# rest_glassfish_hello_world"

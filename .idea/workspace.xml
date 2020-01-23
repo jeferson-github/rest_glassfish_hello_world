@@ -46,7 +46,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579710342488</updated>
-      <workItem from="1579710344670" duration="5687000" />
+      <workItem from="1579710344670" duration="5961000" />
     </task>
     <servers />
   </component>
@@ -70,14 +70,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1028" y="46" width="544" height="862" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579810334296" />
-    <state x="617" y="162" key="SettingsEditor" timestamp="1579810638767">
+    <state x="617" y="162" key="SettingsEditor" timestamp="1579811227460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="617" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579810638767" />
-    <state x="706" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579811121772">
+    <state x="617" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579811227460" />
+    <state x="706" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579811274946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="706" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579811121772" />
+    <state x="706" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579811274946" />
     <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1579710345786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
