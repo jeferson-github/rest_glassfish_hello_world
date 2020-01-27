@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c7e3f0e-3234-4920-895b-0b32bdcc52f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Wl3R4Sj1D1DkUhnEVMEWGJ0ds6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -69,7 +70,7 @@
       <updated>1579710342488</updated>
       <workItem from="1579710344670" duration="5961000" />
       <workItem from="1580146487030" duration="1096000" />
-      <workItem from="1580147594431" duration="1515000" />
+      <workItem from="1580147594431" duration="3542000" />
     </task>
     <task id="LOCAL-00001" summary="Teste de alteração">
       <created>1580146676552</created>
@@ -78,15 +79,24 @@
       <option name="project" value="LOCAL" />
       <updated>1580146676552</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Habilitados suporte: &#10;Java EE 7&#10;RESTfull Web Service 2.0&#10;Web Application 3.1&#10;JSF 2.2.1&#10;Primefaces 6.1">
+      <created>1580149426256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580149426256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Teste de alteração" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste de alteração" />
+    <MESSAGE value="Habilitados suporte: &#10;Java EE 7&#10;RESTfull Web Service 2.0&#10;Web Application 3.1&#10;JSF 2.2.1&#10;Primefaces 6.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Habilitados suporte: &#10;Java EE 7&#10;RESTfull Web Service 2.0&#10;Web Application 3.1&#10;JSF 2.2.1&#10;Primefaces 6.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="551" y="182" key="#Glassfish_Server" timestamp="1580148209915">
@@ -97,10 +107,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="592" y="61" width="905" height="766" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580149080897" />
-    <state x="652" y="239" width="1076" height="801" key="CommitChangelistDialog2" timestamp="1580149332982">
+    <state x="652" y="239" width="1076" height="801" key="CommitChangelistDialog2" timestamp="1580149424532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="239" width="1076" height="801" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580149332982" />
+    <state x="652" y="239" width="1076" height="801" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580149424532" />
     <state x="1028" y="46" width="544" height="862" key="FileChooserDialogImpl" timestamp="1580148680379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -109,14 +119,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="617" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580147827591" />
-    <state x="706" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580146708549">
+    <state x="706" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580149436734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="706" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580146708549" />
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1580147596024">
+    <state x="706" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580149436734" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1580152569470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580147596024" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580152569469" />
     <state x="342" y="225" key="new project wizard" timestamp="1580148777593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
